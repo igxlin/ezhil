@@ -1,5 +1,5 @@
 body {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Sans", "Noto Sans SC", sans-serif;
     font-weight: 400;
     color: #333;
     line-height: 1.6;
@@ -89,7 +89,7 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Noto Sans",sans-serif;
+    font-family: "Noto Sans", "Noto Sans SC",sans-serif;
     line-height: 1.2;
     color: #333;
     font-weight: 200;
