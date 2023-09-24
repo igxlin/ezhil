@@ -269,6 +269,10 @@ pre code {
     margin-bottom: 30px;
 }
 
+.list .posts .post {
+    margin-bottom: 10px;
+}
+
 .recent-posts .posts .post .meta,
 .post .post-header .meta,
 .list .posts .post .meta {
