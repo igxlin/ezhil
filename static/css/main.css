@@ -38,11 +38,23 @@ hr {
 img {
     margin: 10px auto 10px auto;
     max-width: 100%;
-    display: block;
+    max-height: 100%;
+    /* display: block; */
+    border-radius: 10px;
 }
 
 a img {
     border:none;
+}
+
+figure img {
+    margin: 10px auto 0 auto;
+}
+
+figcaption {
+    margin: 10px auto 10px auto;
+    font-size: 0.9rem;
+    color: #b3b3b3;
 }
 
 figure {
